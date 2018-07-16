@@ -16,8 +16,8 @@ Le contenu minimum:
 Contraintes:
 ------------
 
-Symfony 3.4
-Durée 29 heures
+Découverte et utilisation de Symfony 3.4 et du moteur de template Twig.
+Durée 29 heures.
 
 
 Equipe:
